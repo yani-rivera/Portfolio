@@ -9,7 +9,7 @@ Instructions:
 # Yani — A little bit of this a little bit of that
 
 ## Overview
-I am Yani, a highly curious aspiring researcher with a focus on urban data analysis, housing markets, and spatial development trends. My work involves collecting, cleaning, and analyzing historical and contemporary datasets to produce actionable insights for urban policy and planning.
+I am Yani, a highly curious  with a focus on urban data analysis, housing markets, and spatial development trends. My work involves collecting, cleaning, and analyzing historical and contemporary datasets to produce actionable insights for urban policy and planning.
 
 ## Areas of Interest
 - Urban expansion and spatial structure analysis
