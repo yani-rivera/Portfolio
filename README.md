@@ -8,6 +8,18 @@ Instructions:
 
 # Yani — A little bit of this a little bit of that
 
+## Table of Contents
+1. [Overview](#overview)
+2. [Suggested Repository Folder Structure](#suggested-repository-folder-structure)
+3. [GIF Creation Tip](#gif-creation-tip)
+4. [Areas of Interest](#areas-of-interest)
+5. [Technical Skills](#technical-skills)
+6. [Selected Projects](#selected-projects)
+7. [Data Snippet Example](#data-snippet-example)
+8. [Urban Expansion Maps](#urban-expansion-maps)
+9. [Current Work](#current-work)
+10. [Contact Information](#contact-information)
+    
 ## Overview
 I am Yani, a highly curious person with a focus on urban data analysis, housing markets, and spatial development trends. My work involves collecting, cleaning, and analyzing historical and contemporary datasets to produce actionable insights for urban policy and planning.
 
